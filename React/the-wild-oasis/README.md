@@ -35,7 +35,7 @@ The Wild Oasis hotel management app is a full-featured React web application tha
 
 ## How to login
 
-Email:andrew@example.com
+Email:andrew@example.com <br/>
 PW : pass8974
 
 ## Table of contents
