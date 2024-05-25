@@ -1,30 +1,31 @@
+## :pizza: Fast-React-Pizza
 
-# Fast-Pizza-React
+<p align='center'>
+  
+<img width="98%" src='./fast-react-pizza-sc.webp'/>
+</p>
 
-A small app for ordering delicious pizzas
+### :page_facing_up: About
 
+**Fast-React-Pizza** is a web application for a pizza restaurant that allows customers to order pizza online and track the progress of their orders.
 
-## Demo
+### :star2: Features
 
-https://pizza-ordering0.netlify.app/
+- Uses **ReactJS** as the frontend framework and **Tailwind CSS** for styling
+- Uses **React Router** for routing and navigation
+- A **fully responsive** design that adapts to different screen sizes and devices
+- Fetches the menu items from an **API** and displays them in a user-friendly interface
+- Sends the orders to the **API** and updates the customers on the status of their orders
 
+### :computer: Installation
 
-## Tech Stack
+To run this project locally, you need to have Node.js and npm installed on your machine. Then, follow these steps:
 
-**Client:** React Router data loading, Redux, Redux Toolkit, thunks, Tailwind CSS
+Clone this repository to your local machine
+Navigate to the project folder and run `npm install` to install the dependencies<br/>
+Run `npm run dev` to start the development server
+Open http://localhost:5173 in your browser to view the application
 
+### :clapper: Live Demo
 
-
-
-## Installation
-
-To download all packages as node modules
-```bash
-  npm install 
-```
-
-To run on localhost
-```bash
-  npm run dev 
-```
-    
+You can view a live demo of this project **[Here](https://pizza-ordering0.netlify.app/)**
