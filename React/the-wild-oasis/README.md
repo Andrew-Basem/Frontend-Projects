@@ -104,7 +104,7 @@ PW : pass8974
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/The-Wild-Oasis.git
+git clone https://github.com/Andrew-Basem/Frontend-Projects.git
 ```
 
 - Install dependencies:

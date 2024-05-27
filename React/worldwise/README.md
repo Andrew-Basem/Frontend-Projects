@@ -20,7 +20,7 @@ Before running the WorldWise application, ensure you have the following dependen
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/Andrew-Basem/Frontend-Projects/tree/d46e9e93a8806ba131496b447b91e5e13d87cccc/React/worldwise
+git clone https://github.com/Andrew-Basem/Frontend-Projects.git
 ```
 
 2. Change into the project directory:
