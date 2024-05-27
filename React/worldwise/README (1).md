@@ -20,7 +20,7 @@ Before running the WorldWise application, ensure you have the following dependen
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/Andrew-Basem/Frontend-Projects/tree/1b491fc53001ea43b3864271b3352575aa0963e3/React/the-wild-oasis
+git clone https://github.com/sparkz-technology/worldwise.git
 ```
 
 2. Change into the project directory:
@@ -34,6 +34,10 @@ cd worldwise
 ```shell
 npm install
 ```
+
+## Configuration
+
+The WorldWise application uses a JSON server to provide city data. By default, the server is configured to run on `http://localhost:8000`. If you need to change the server URL, modify the `BASE_URL` constant in the `CitiesProvider` component located in `src/providers/CitiesProvider.js`.
 
 ## Usage
 
@@ -51,6 +55,13 @@ npm run dev
 
 3. Open your browser and navigate to `http://localhost:3000` to access the WorldWise application.
 
+## Authentication
+
+The WorldWise application includes authentication functionality. You can log in using the following credentials:
+
+- Email: `sparkz@worldwise.com`
+- Password: `qwerty`
+
 ## Available Scripts
 
 In the project directory, you can run the following scripts:
@@ -60,6 +71,11 @@ In the project directory, you can run the following scripts:
 - `npm run lint`: Runs the ESLint linter to check for code quality and style issues.
 - `npm run preview`: Serves the production build locally for preview.
 - `npm run server`: Starts the JSON server to serve city data.
+
+
+## Contributing
+
+Contributions are welcome! Feel free to open issues and submit pull requests to help improve the WorldWise application.
 
 ## Acknowledgements
 
@@ -72,5 +88,6 @@ The WorldWise application uses the following open-source libraries:
 - [React DatePicker](https://github.com/Hacker0x01/react-datepicker)
 - [JSON Server](https://github.com/typicode/json-server)
 - [ESLint](https://eslint.org)
+
 
 Thank you for using WorldWise!
