@@ -107,6 +107,12 @@ PW : pass8974
 git clone https://github.com/Andrew-Basem/Frontend-Projects.git
 ```
 
+2. Change into the project directory:
+
+```shell
+cd the-wild-oasis
+```
+
 - Install dependencies:
 
 ```sh
